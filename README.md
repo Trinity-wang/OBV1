@@ -7,3 +7,12 @@ Effectué dans le cadre d'un stage de Master 2 en Neurosciences
 Supervisé par Laurent Perrinet
 
 
+Dependances :
+
+- Numpy, matplotlib
+- PyNN
+- Nest, Brian
+- pandas
+- NeuroTools
+
+
